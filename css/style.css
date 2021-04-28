@@ -38,58 +38,10 @@ header {
     font-size: 1.3rem;
 }
 
-.pricingSection {
-    background-color: #fff;
-    padding: 50px 150px;
-}
-
-.pricingCard {
-    background-color: #fff;
-    border-radius: 8px;
-    text-align: center;
-    overflow: hidden;
-    position: relative;
-    padding-bottom: 15px;
-    height: 100%;
-}
-
-.pricingCard h2 {
-    padding: 10px;
-    background-color: var(--primaryBlue);
-    color: #fff;
-    font-size: 3.3rem;
-}
-
-.pricingCard p {
-    padding: 15px;
-    font-size: 1.5rem;
-}
-
 footer {
-    border: 5px solid #cecece;
-}
-
-.embedMapIframe {
-    display: block;
-    width: 100%;
-    border-right: 5px solid #cecece;
-}
-
-address {
-    padding: 15px 15px 15px 40px;
-}
-
-address h3 {
-    color: #9d9d9d;
-    font-size: 2.5rem;
-}
-
-address p {
-    font-size: 1.5rem;
-    font-style: italic;
-}
-
-address a {
-    color: #3f51b5;
-    font-size: 1.3rem;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 2rem;
 }
