@@ -1,28 +1,13 @@
 {
-  "short_name": "Helioscart",
-  "name": "Helioscart",
-  "description": "Smart & Simple Procurement and Financing Solution Helioscart provides a simple to adopt procurement platform alongwith wide variety of financing solutions for your different material procurement needs",
+  "short_name": "DemoApp",
+  "name": "DemoApp",
+  "description": "Description...",
   "background_color": "#ffffff",
   "theme_color": "#f47634",
   "display": "standalone",
   "scope": "/",
   "orientation": "portrait",
-  "manifest_package": "com.helioscart.pwastage.twa",
-  "scope_url": "https://pwastage.helioscart.com/",
   "start_url": "/",
-  "intent_filters": {
-    "scope_url_scheme": "https",
-    "scope_url_host": "pwastage.helioscart.com",
-    "scope_url_path": "/"
-  },
-  "icon_urls_and_icon_murmur2_hashes": "https://pwastage.helioscart.com/logo-512.png 0 https://pwastage.helioscart.com/logo-192.png 0",
-  "web_manifest_url": "https://pwastage.helioscart.com/manifest.json",
-  "version_code": "1",
-  "version_name": "1.0.0.0",
-  "bound_webapk": {
-    "runtime_host": "org.chromium.chrome",
-    "runtime_host_application_name": "Chromium"
-  },
   "icons": [{
       "src": "logo-512.png",
       "type": "image/png",
@@ -30,7 +15,7 @@
       "purpose": "any maskable"
     },
     {
-      "src": "HC-Favicon.ico",
+      "src": "favicon.ico",
       "type": "image/x-icon",
       "sizes": "32x32",
       "purpose": "any"
@@ -53,7 +38,5 @@
       "sizes": "192x192",
       "purpose": "any maskable"
     }
-  ],
-  "url": "http://localhost:3000/",
-  "lang": ""
+  ]
 }
