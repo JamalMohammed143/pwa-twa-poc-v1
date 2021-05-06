@@ -5,7 +5,7 @@
   "background_color": "#ffffff",
   "theme_color": "#f47634",
   "display": "standalone",
-  "scope": "",
+  "scope": "https://jamalmohammed143.github.io/pwa-twa-poc-v1/",
   "orientation": "portrait",
   "start_url": "https://jamalmohammed143.github.io/pwa-twa-poc-v1/",
   "icons": [{
